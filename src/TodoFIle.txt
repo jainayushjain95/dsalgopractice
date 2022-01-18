@@ -1,0 +1,15 @@
+/*Todo:
+    * https://leetcode.com/problems/path-with-maximum-gold/
+    * https://leetcode.com/problems/brace-expansion/
+    * https://leetcode.com/problems/decode-string/
+    * https://leetcode.com/problems/combination-sum/
+    * https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+    * https://leetcode.com/problems/combination-sum-ii/
+    * https://leetcode.com/problems/combination-sum-iii/
+    * https://leetcode.com/problems/factor-combinations/
+    *
+    * */
+
+
+Day 2 -> https://leetcode.com/study-plan/dynamic-programming/?progress=ahpukoh
+
